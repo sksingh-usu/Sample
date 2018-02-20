@@ -6,6 +6,6 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        // Some Code
+        System.out.println("Hello World");
     }
 }
